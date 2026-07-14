@@ -31,7 +31,7 @@ iNFERNO_pURGATORIO_ pARADISO
 
 **Data e luogo della prima presentazione**: 4 dicembre 2021, Teatro S. Giorgio, Sala Pinter, Udine
 
-## Descrizione
+## Approfondimento
 
 Il terzo e ultimo spettacolo del progetto curato dalla regista Rita Maffei "Trittico partecipato dantesco" – ***pARADISO*** – riporta la scena ad un impianto frontale da teatro all’italiana all'interno della Sala Pinter, con una ricomposizione parziale delle poltrone in platea e utilizzando per l'azione scenica il palcoscenico tradizionale, ma tramutandolo quasi in un cinema per certi aspetti.
 

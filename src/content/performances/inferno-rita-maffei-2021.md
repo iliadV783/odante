@@ -31,7 +31,7 @@ iNFERNO_pURGATORIO_ pARADISO
 
 **Data e luogo della prima presentazione**: 9 ottobre 2021, Teatro S. Giorgio, Sala Pinter, Udine
 
-## Descrizione
+## Approfondimento
 
 Per il primo spettacolo del progetto curato dalla regista Rita Maffei "Trittico partecipato dantesco" – *iNFERNO* – la Sala Pinter del Teatro S. Giorgio di Udine è rimodulata nella sua struttura per permettere alle persone e agli attori una fruizione integrale dello spazio. La platea, privata delle poltrone usuali, diviene il luogo della rappresentazione, di fronte a un palco vuoto.
 Il pubblico, contingentato  numericamente per le disposizioni di prevenzione dal contagio Covid-19, è accolto sulla platea, sovrastato sonoramente dai passi famosi della *Commedia* declamati dall’alto, dal ponte luci. Alcune attrici e alcuni attori, posti all’interno di coni di *plexiglas*,  danno voce a diverse anime di dannati, integrando ai versi danteschi riflessioni su vicende, reali e inventati, relative al mondo contemporaneo, dalla violenza di genere alla questione dei migranti, sino a fatti relativi alla storia recente italiana, dalle proteste per il G8 di Genova del 2001, agli attentati dell'11 settembre 2001. Emerge in questo *Inferno* la componente legata al territorio di confine e di pluralità delle culture, delle lingue e delle etnie, che caratterizza la regione Friuli-Venezia Giulia.

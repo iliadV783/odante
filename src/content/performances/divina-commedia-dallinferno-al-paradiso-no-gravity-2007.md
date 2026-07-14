@@ -28,7 +28,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 24 gennaio 2007, Teatro Comunale Moderno, Grosseto
 
-## Descrizione
+## Approfondimento
 
 Dal 2007 con il primo spettacolo dedicato alla prima cantica dantesca, *Hell* , il coreografo Emiliano Pellisari propone al pubblico italiano una nuova modalità di danza, scegliendo i ballerini della propria compagnia per la capacità di coniugare una certa tecnica classica con una grande abilità acrobatica. La terminologia viene utilizzata indifferentemente in italiano e inglese, in quanto la compagnia ha una spiccata vocazione internazionale e circuita principalmente in Europa.
 Al primo studio dedicato all’*Inferno*, ne seguono altri incentrati sulle due cantiche successive, fino alla definizione dello spettacolo nel formato *Divine Comedy* (2014), nel quale trovano posto tutti i migliori quadri realizzati fino a quel momento per gli spettacoli singoli.

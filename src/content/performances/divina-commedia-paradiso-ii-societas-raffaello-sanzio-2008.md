@@ -26,7 +26,7 @@ wordpressStatus: draft
 
 **Data e luogo della prima presentazione**: 04/11/2008, Chiesa del Santo Spirito - Cesena (Italia).
 
-## Descrizione
+## Approfondimento
 
 Durante la prima nazionale, all'interno del progetto *Màntica*, esercizi di voce umana, per la direzione di Chiara Guidi, Romeo Castellucci allestisce a Cesena la propria visione di *Paradiso II*, prevedendo una nuova versione dell'installazione avignonese. Castellucci propone ora anche la presenza di un personaggio, con il volto completamente coperto, sospeso a qualche metro da terra nel tentativo, non riuscito, di liberarsi dal bordo del muro che lo trattiene. Contorcendosi in un’agonia dolorosa per liberarsi dal bordo del muro che lo trattiene, muovendosi in mezzo a uno scroscio d’acqua che cade a terra, questa nuova possibile versione dell’installazione *site specific*paradisiaca conferma ancora una volta l’impossibilità di articolare la *visio Dei* in termini espressivi.
 

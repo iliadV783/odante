@@ -28,7 +28,7 @@ wordpressStatus: draft
 
 **Data e luogo della prima presentazione**: 05/07/2008, Festival di Avignone - Cour d'honneur du Palais des Papes (Francia).
 
-## Descrizione
+## Approfondimento
 
 *Inferno* si apre su una scena scarna, lasciando correre lo sguardo del pubblico lungo le secolari architetture del Palazzo dei Papi di Avignone. Improvvisamente entra proprio il regista Romeo Castellucci. Dopo aver dichiarato «Je suis Romeo Castellucci», il regista indossa una tuta imbottita e, subito dopo, scatena il rilascio di un branco di cani, che lo atterrano e iniziano a morderlo furiosamente, con l’intenzione di farlo a pezzi. Questa brutale premessa, così indicativa del *focus* che l’autore desidera porre sull’adattamento dantesco, ripropone in una chiave inedita lo *sparagmos* tragico, lo smembramento delle Baccanti, che vede l’artista/autore totalmente indifeso nell’atto creativo che gli richiede un sacrificio totale. L’*Inferno* è violenza, è confusione, è una presenza e una presa di posizione nei confronti dell’arte e del suo significato nel mondo. Il regista si presenta con il proprio nome e cognome, come fa Dante stesso nella sua opera. Ora la *selva oscura*è il teatro.
 

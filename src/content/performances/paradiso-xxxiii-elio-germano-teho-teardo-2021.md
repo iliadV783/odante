@@ -31,7 +31,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 11 ottobre 2021, Teatro Alighieri, Ravenna
 
-## Descrizione
+## Approfondimento
 
 Il progetto di *Lectura Dantis*di Elio Germano sviluppa una drammaturgia incentrata sul canto trentatreesimo di *Paradiso*insieme al musicista Teho Teardo, e alla eccezionale regia firmata dagli artisti Simone Ferrari e Lulu Helbæk.
 Inizialmente la scenografia appare minimale: l'attore è solo al centro del palcoscenico. Ai suoi lati, opposti gli uni agli altri, si trovano Teardo con la propria *consolle* e un duo d'archi composto da Laura Bisceglia al violoncello e Ambra Chiara Michelangeli alla viola..

@@ -35,7 +35,7 @@ wordpressStatus: publish
 
 **Interprete** **in scena**: Simone Cristicchi
 
-## Descrizione
+## Approfondimento
 
 Nel suo viaggio artistico, di cantautore e uomo di teatro, Cristicchi decide di portare in scena un adattamento dantesco connotandolo come una personale ricerca della felicità, una indagine nell’esoterico e nel dialogo basato sull’umanità, da artista ad artista. Rielaborando il materiale di precedenti spettacoli, come l’orazione politica, o “musical civile”, *Magazzino 18*, nel quale si fa portavoce degli esuli italiani istriani e dalmati, o lo spettacolo toccante sulla ricerca della felicità, *HappyNext*, Cristicchi costruisce un particolare incontro con Dante.
 Egli definisce la sua operazione un *musical per solo*, in quanto è lui solo in scena a cantare le sue canzoni e a creare un percorso di teatro di narrazione in dialogo con la figura del poeta fiorentino e le sue opere. Per Cristicchi, l'idea di rielaborare Dante arriva durante la pandemia da COVID-19 del 2020. Nella drammaturgia, oltre a tematiche riferite al cambiamento climatico, alla presenza incessante di odio, avidità e crudeltà nell’umanità, Cristicchi chiede conto a Dante del suo viaggio, dei mezzi possibili e artisticamente validi per rigenerare lo spirito e ardire di arrivare alle stelle della beatitudine.

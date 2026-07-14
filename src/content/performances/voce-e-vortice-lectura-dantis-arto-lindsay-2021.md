@@ -27,7 +27,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 23 giugno 2021, Rocca Brancaleone, Ravenna
 
-## Descrizione
+## Approfondimento
 
 In questa personalissima *Lectura Dantis*, che coniuga il concerto con il tributo alla immortale lettura realizzata dall'attore Carmelo Bene a Bologna nel 1981, il musicista Arto Lindsay innerva la propria musica con i versi danteschi.
 In quello che è un *pastiche*, un concerto singolare durante il quale si crea un'armonia talvolta discordante nella giustapposizione di elementi sonori suonati *live*e altri registrati, la forza della lettura operata da Bene viene arricchita non solo dal richiamo alle primigenie musiche composte da Salvatore Sciarrino, ma anche da una nuova veste musicale, ricca di percussioni, linee melodiche e nuovi ritmi.

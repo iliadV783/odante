@@ -26,7 +26,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 6 giugno 2015, Palazzo Mauro de André, Ravenna
 
-## Descrizione
+## Approfondimento
 
 In occasione del centenario del 2015, Ravenna Festival affida al compositore premio Oscar Nicola Piovani il compito di creare una composizione dedicata a Dante Alighieri.
 In un primo momento, gli viene chiesto di comporre un pezzo ispirato alla *Divina Commedia*, ma l’artista si rifiuta di occuparsi di una tale operazione. In un’intervista a Paolo di Paolo, per la trasmissione*La lingua batte* su Radio Rai 3, Piovani sottolinea come per lui fosse inconcepibile mettere in musica la *Commedia* in quanto dotata di una musicalità intrinseca.

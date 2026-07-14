@@ -29,7 +29,7 @@ wordpressStatus: publish
 
 **Musiche**: Giya Kancheli, Alberto Iglesias, RyUichi Sakamoto, Samuel Barber, Amalia Rodriguez, Eleni Karaindrou, Craig Armstrong
 
-## Descrizione
+## Approfondimento
 
 Partendo dal lavoro svolto per il precedente spettacolo *Giovanna d'Arco*del 2004, Monica Guerritore ha scritto e diretto *Dall’Inferno all’Infinito*, uno spettacolo prodotto in occasione di un centenario dantesco, portato in scena per le Giornate della Lingua Italiana organizzate dall’Accademia della Crusca (9-11 aprile 2015).
 

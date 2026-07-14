@@ -30,7 +30,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 9 settembre 2021 ore 19, all'interno del Festival InVisible Cities, Gradisca d'Isonzo, Cortile di Palazzo Torriani
 
-## Descrizione
+## Approfondimento
 
 Nel 2021 il progetto *Nel mezzo dell’Inferno* di Fabrizio Pallara e Roberta Ortolano, con l’ausilio di programmatori e di grafici, sviluppa un percorso di realtà virtuale per la prima cantica dantesca, *Inferno*.
 Il pubblico accede singolarmente alla realtà virtuale, mediante prenotazione, nella quale avrà la possibilità di confrontarsi con l'inizio del viaggio dantesco nel primo mondo ultramondano. In qualità di Dante, incontrerà le tre fiere e successivamente Virgilio. Prima dell'inizio della visione, gli/le verrà chiesto di scegliere un personaggio a scelta della cantica da incontrare tra Ulisse (If. XXVI) e il Conte Ugolino (If. XXXIII).

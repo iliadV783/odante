@@ -31,7 +31,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 5 maggio 2021, Teatro Maddalene (Padova)
 
-## Descrizione
+## Approfondimento
 
 Lo spettacolo *Un Inferno* è il primo di trilogia di spettacoli dedicati alla *Divina Commedia* e concepiti dal regista Fabrizio Arcuri, in occasione del settimo centenario della morte del Poeta fiorentino per il Teatro Stabile del Veneto, coinvolgendo i giovani attori e attrici della Compagnia Giovani dell'Accademia Teatrale Carlo Goldoni.
 Seguendo il solco tracciato dalla storica trilogia dantesca spettacolare della Compagnia Lombardi-Tiezzi (ex Magazzini Criminali), che vedeva affidata la drammaturgia di ogni cantica ad un diverso poeta del Novecento, Arcuri decide di affidare ogni drammaturgia della sua trilogia a un diverso drammaturgo contemporaneo, scegliendo per la prima cantica di *Inferno* Fausto Paravidino.

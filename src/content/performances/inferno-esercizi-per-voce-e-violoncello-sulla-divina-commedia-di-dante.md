@@ -40,7 +40,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 30-31 maggio 2015, Ravenna, in occasione del XIII Congresso della Scuola lacaniana di Psicoanalisi (SLP), intitolato *Avere un corpo che parla. Emergenze del corpo nella esperienza psicoanalitica*
 
-## Descrizione
+## Approfondimento
 
 Il 2015 viene indicato come momento aurorale di questa nuova collaborazione nel segno di Dante, tra la laringe dell'attrice Chiara Guidi e il violoncello del musicista Francesco Guerri.
 Lo stile che contraddistingue la particolare *Lectura Dantis*che viene realizzata nella collaborazione tra corpo-voce e musica parte dalla ricerca personale di Guidi, dal praticare l'esercizio costante sul verso dantesco e dall'aver ben presto coinvolto Guerri in questa pratica e ricerca.

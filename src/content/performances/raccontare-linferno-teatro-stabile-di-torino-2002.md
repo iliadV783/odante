@@ -26,7 +26,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 5 novembre 2002, Carcere Le Nuove di Torino
 
-## Descrizione
+## Approfondimento
 
 La drammaturgia creata da Ola Cavagna per la compagnia del Teatro Stabile di Torino e degli allievi e allieve della Scuola del TST vede l'accostamento non insolito tra il poema dell'Alighieri e la prosa di Primo Levi.
 

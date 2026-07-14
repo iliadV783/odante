@@ -33,7 +33,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 5 maggio 2021, Teatro Maddalene (Padova).
 
-## Descrizione
+## Approfondimento
 
 Lo spettacolo **Un*Paradiso* è il terzo e ultimo spettacolo della trilogia dantesca concepita dal regista Fabrizio Arcuri, in occasione del settimo centenario della morte del Poeta fiorentino per il Teatro Stabile del Veneto, coinvolgendo i giovani attori e attrici della Compagnia Giovani dell'Accademia Teatrale Carlo Goldoni, nonostante le difficoltà dovute alla pandemia mondiale di COVID 19.
 *Un Paradiso* è la riscrittura drammaturgica ideata da Fabrizio Sinisi.

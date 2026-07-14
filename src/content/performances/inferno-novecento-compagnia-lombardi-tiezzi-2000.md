@@ -27,7 +27,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 29 luglio 2000, Rosignano Solvay, Spiagge bianche
 
-## Descrizione
+## Approfondimento
 
 Lo spettacolo *Inferno Novecento* ha visto una lunga evoluzione e un successivo ampliamento, grazie all'apporto della drammaturgia di Fabrizio Sinisi.
 

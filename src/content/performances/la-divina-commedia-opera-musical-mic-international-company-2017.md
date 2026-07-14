@@ -30,7 +30,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 22 novembre 2007, Teatro Tenda Divina Commedia, Roma
 
-## Descrizione
+## Approfondimento
 
 L'opera *La Divina Commedia opera Musical* era stata proposta al pubblico italiano nel 2007, con il titolo di *La Divina Commedia. L’Opera. L’uomo che cerca l’amore* , riscuotendo un grandissimo successo e venendo presto ripresa e ampliata nel 2017 dal compositore Mons. Marco Frisina e dal regista Andrea Ortis.
 Tra le novità previste, l'intervento dell'attore Giancarlo Giannini nel ruolo di voce recitante di Dante Alighieri, un nuovo allestimento scenografico comprensivo di attrezzature ed effetti speciali multimediali, e nuovi interpreti per il *cast* dei cantanti e dei danzatori.

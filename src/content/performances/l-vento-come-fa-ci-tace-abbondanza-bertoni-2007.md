@@ -25,7 +25,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 2007
 
-## Descrizione
+## Approfondimento
 
 I danzatori Michele Abbondanza e Antonella Bertoni creano un breve pezzo di ispirazione dantesca nel 2007.
 Il lavoro di video-danza sul canto V di *Inferno* segue un progetto più articolato finanziato dalla Regione Lombardia e selezionato per diversi Festivals di video-danza internazionali.

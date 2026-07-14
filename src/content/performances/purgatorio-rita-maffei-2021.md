@@ -34,7 +34,7 @@ iNFERNO_pURGATORIO_ pARADISO
 
 **Data e luogo della prima presentazione**: 6 novembre 2021, Teatro S. Giorgio, Sala Pinter, Udine
 
-## Descrizione
+## Approfondimento
 
 Anche per il secondo spettacolo del progetto curato dalla regista Rita Maffei "Trittico partecipato dantesco" – **pURGATORIO** – la Sala Pinter del Teatro S. Giorgio di Udine viene nuovamente rimodulata nella sua struttura per permettere alle persone e agli attori una fruizione integrale dello spazio.
 Lo spettacolo partecipato *pURGATORIO*  è sviluppato come un gioco a stazioni, all'interno del quale il pubblico contingentato si muove liberamente. Utilizzando lo spazio svuotato della platea del teatro, vengono create delle illusorie "stanze-stazioni" delimitate da *scotch*giallo sul pavimento. In ogni stanza prende posto un attore-attrice, che accoglie il pubblico della rappresentazione una persona per volta.

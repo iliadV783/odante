@@ -28,7 +28,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 06/12/2016,Teatro della Cavallerizza(Reggio Emilia).
 
-## Descrizione
+## Approfondimento
 
 *Purgatorio*è il secondo spettacolo della trilogia dantesca creata dai Babilonia Teatri, in collaborazione con la compagnia Zero Favole.
 La produzione vede la sua elaborazione all’interno di una residenza artistica presso la Biennale Teatro di Venezia. La domanda che sta alla base di questa elaborazione della seconda cantica dantesca è il desiderio e la necessità di purificazione. Nello spettacolo *Purgatorio* non c’è nulla da vedere, solo carne, corpi. Se *Inferno* proponeva tutti gli interpreti vestiti con elementi anche giocosi e tendenti allo sportivo, in questa produzione gli attori sono tutti in biancheria intima, proprio per mettere in luce un aspetto dantesco talvolta tralasciato, ovvero che *Purgatorio* è la cantica dove l’esperienza per le anime più si avvicina alla vita terrena, includendo una forte malinconia e la dimensione del ricordo, verso quel corpo che ancora poteva essere in grado di compiere azioni in vista dell’aldilà.

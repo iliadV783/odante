@@ -26,7 +26,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 22 luglio 2021, Cervia, Piazza Garibaldi
 
-## Descrizione
+## Approfondimento
 
 Lo spettacolo ideato dall'artista Neri Marcorè per omaggiare il settimo centenario della morte del Sommo Poeta è incentrato su una moderna modalità di far interagire il testo dantesco con una drammaturgia costruita per associazione a testi altri.
 

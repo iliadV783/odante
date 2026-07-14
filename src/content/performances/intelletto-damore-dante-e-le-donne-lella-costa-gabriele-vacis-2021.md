@@ -26,7 +26,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 26 giugno 2021, Teatro di Chiasso (Svizzera)
 
-## Descrizione
+## Approfondimento
 
 L'attrice Lella Costa insieme al regista Gabriele Vacis scrive *Intelletto d’amore*, spettacolo di teatro di narrazione nel quale Costa è protagonista unica sulla scena.
 La drammaturgia è nata a seguito della costituzione di  un *podcast* sui personaggi femminili presenti nella *Divina Commedia*e nella vita del Poeta fiorentino.

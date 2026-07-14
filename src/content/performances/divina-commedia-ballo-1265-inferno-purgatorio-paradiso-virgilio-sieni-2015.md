@@ -25,7 +25,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 28 dicembre 2015, Salone dei Cinquecento, Palazzo Vecchio, Firenze
 
-## Descrizione
+## Approfondimento
 
 Successivo all'esperienza internazionale di *Vita Nova*, ****Divina Commedia_Ballo 1265. Inferno_Purgatorio_Paradiso**** si presenta come il pieno adattamento dantesco ad opera del coreografo toscano Virgilio Sieni.
 

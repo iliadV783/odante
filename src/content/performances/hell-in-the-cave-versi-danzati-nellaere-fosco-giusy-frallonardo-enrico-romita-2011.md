@@ -27,7 +27,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: marzo 2011, Grotte di Castellana (Bari)
 
-## Descrizione
+## Approfondimento
 
 Partendo dalle specificità orografiche del proprio territorio, per darne lustro e proporre una esperienza potente e immersiva al pubblico, Giusy Frallonardo e Enrico Romita creano *Hell in the cave*.
 Lo spettacolo, andato in scena per la prima volta nel 2011, rappresenta un esempio perfetto di valorizzazione di un territorio applicato al patrimonio culturale: lo spettacolo è ambientato nelle grotte geo-speleologiche di Castellana Grotte, comune nella provincia di Bari, in Puglia.

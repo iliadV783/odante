@@ -25,7 +25,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 15 giugno 2018, Napoli Teatro Festival Italia
 
-## Descrizione
+## Approfondimento
 
 Lo spettacolo *fedeli d’Amore* mette in primo piano la maestria del corpo-voce di Ermanna Montanari, accompagnata dalla presenza della tromba di Simone Marzocchi, grazie alla drammaturgia scritta da Marco Martinelli.
 Nella descrizione di questo spettacolo per quadri poetici, protagonisti sono sette elementi: si parte dalla Nebbia che avvolge la stanza del Poeta e lo presenta al pubblico morente, nel pieno della sua fragilità umana, tramite il dialetto romagnolo di Campiano; segue il Demone della fossa, essere sovrannaturale che abita il Flegetonte, dove si fa riferimento chiaro al mondo corrotto; l’Asino, animale *totem* delle Albe, prende parola e racconta come ha portato Dante Alighieri, ormai malato, a morire tra i mosaici della città romagnola di Ravenna; successivo è il Diavolo del rabbuffo, che scatena le risse attorno al denaro, già presente nello spettacolo delle Albe, *Inferno*, del 2017; prende la parola l’Italia stessa, «che scalcia se stessa», invettiva alla nazione e al mondo tutto contemporaneo, in un personale sirventese scritto da Martinelli sulla scia della dantesca «Ahi Serva Italia, di dolore ostello»; infine parla la Figlia di Dante, suor Beatrice, prima presenza umana in scena, unica donna, che siede al capezzale del padre morente e ricorda le sue prime azioni da *fedele d’amore*, con i suoi amici, e pare interrogare il pubblico: «non lo vedete Amore?».

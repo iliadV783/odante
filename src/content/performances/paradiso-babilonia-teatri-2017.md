@@ -27,7 +27,7 @@ wordpressStatus: draft
 
 **Data e luogo della prima presentazione**: 03/11/2017, Roma Europa Festival.
 
-## Descrizione
+## Approfondimento
 
 *Paradiso*è l'ultimo spettacolo della trilogia dantesca creata dai Babilonia Teatri, in collaborazione con la compagnia Zero Favole.
 *Paradiso* porta a compimento la parabola di studio e riflessione sulla sofferenza degli ultimi, dei non-interessanti per la società iniziata dai Babilonia Teatri nel 2014. A differenza delle cantiche precedenti, i protagonisti sono Amer Ben Henia, Joice Dogbe e Josephine Ogechi Eiddhom, e Daniele Balocchi (un ragazzo affetto da sindrome di Down già presente nei precedenti spettacoli) come angelo/facilitatore insieme a Enrico Castellani, entrambi in veste di *alter ego* di San Bernardo, l’ultima guida della *Commedia*dantesca. Per Babilonia Teatri, le loro vite incarnano l’idea di un *Paradiso*negato, di un’infanzia privata dell’opportunità di essere naturalmente bambini, della possibilità di essere innocenti, e del portato emotivo che questa condizione comporta nella loro crescita. I Babilonia Teatri sovvertono questa direzione ascendente tra i cieli di *Paradiso* creando una *katabasi*, partendo dal mettere in scena la nascita, con un parto, il momento più delicato che determina la vita: in questa opposizione, i ragazzi ripercorrono le tappe della vita di Cristo, che si fa uomo, che si lascia annientare per amore, fino alla crocifissione. In questa parabola teatrale, le individuali storie dei ragazzi si presentano come contemporanee *vitae Christi*, comparando la miserabile vita degli orfani, a quella del salvatore, ricordando al pubblico che anche nella bruttezza della vita, si trova la fede.

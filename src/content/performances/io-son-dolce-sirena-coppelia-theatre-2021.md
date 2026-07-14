@@ -35,7 +35,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 14 giugno 2021, Chiostri del museo nazionale, Ravenna
 
-## Descrizione
+## Approfondimento
 
 Riportiamo qui quanto viene utilizzato nella sinossi dello spettacolo, presente all'interno del ricco cartellone a tema dantesco del Ravenna Festival 2021 di Ravenna.
 In particolare il presente spettacolo di figura, che coinvolge nuove tecnologie e macchinerie, partecipava alla chiamata per giovani artisti emergenti, sollecitati dal Festival a riflettere sulla *Divina Commedia*dell'Alighieri.

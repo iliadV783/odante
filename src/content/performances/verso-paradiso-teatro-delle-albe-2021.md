@@ -26,7 +26,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 25 giugno 2021, Loggetta Lombardesca - Giardini Pubblici - Ravenna (Italia).
 
-## Descrizione
+## Approfondimento
 
 Dopo aver portato in scena *Inferno*e *Purgatorio*, la compagnia Teatro delle Albe si appresta a iniziare le preparazioni per la cantica finale del *Cantiere Dante*.
 La pandemia di COVID-19 impatta drammaticamente sulla preparazione di questo spettacolo, in quanto le Albe si trovano per quasi due anni impossibilitate a ritrovarsi con i partecipanti della consueta chiamata pubblica e a poter sostenere l'attività teatrale. Non volendo snaturare completamente ciò che ha contraddistinto un intero percorso nella *Commedia*dantesca, le Albe decidono di attendere, di farsi luogo nel pieno rispetto delle norme anti-contagio e ritardare di un anno la produzione della cantica *Paradiso*.

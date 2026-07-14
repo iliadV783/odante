@@ -27,7 +27,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 03/12/2014, Teatro Cavallerizza (Reggio Emilia).
 
-## Descrizione
+## Approfondimento
 
 *Inferno*è il primo spettacolo della trilogia dantesca creata dai Babilonia Teatri, in collaborazione con la compagnia Zero Favole.
 Il teatro inclusivo di parola che gli artisti veronesi realizzano insieme ad adolescenti provenienti da condizioni svantaggiate e marginali testimonia la volontà di attraversare il testo dantesco con la contemporaneità delle storie di questi protagonisti.

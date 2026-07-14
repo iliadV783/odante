@@ -24,7 +24,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: debutto 27 luglio 2018, Gole dell'Alcantara (Messina, Sicilia)
 
-## Descrizione
+## Approfondimento
 
 Lo spettacolo *Inferno di Dante*creato dall'Associazione Buon Giorno Sicilia testimonia come sia particolarmente efficace produrre uno spettacolo immersivo dedicato alla prima cantica dantesca valorizzando la conformazione naturale d'eccezione di un territorio.
 

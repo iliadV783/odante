@@ -26,7 +26,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 25 settembre 2021, Teatro Politeama, Napoli
 
-## Descrizione
+## Approfondimento
 
 A seguito dei precedenti lavori danteschi, lo spettacolo *Paradiso* nasce nonostante il difficile periodo della pandemia da Covid-19 e le relative limitazioni.
 Lo spettacolo, promosso e proposto all’interno del cartellone per le Celebrazioni dantesche Fiorentine del 2021, debutta al Teatro Politeama di Napoli il 25 settembre 2021, ha pertanto visto vari passaggi di avviamento all’interno delle pratiche condivise con cittadini volontari.

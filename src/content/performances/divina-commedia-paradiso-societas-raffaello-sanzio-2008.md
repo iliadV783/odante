@@ -26,7 +26,7 @@ wordpressStatus: draft
 
 **Data e luogo della prima presentazione**: 11/07/2008, Festival di Avignone - Église des Célestins (Francia).
 
-## Descrizione
+## Approfondimento
 
 L’ultimo spettacolo della trilogia dantesca firmata da Romeo Castellucci prevede un *excessus*, un *trasumanar*. Si passa infatti dalla condizione molto corporea dello sforzo fisico di Dante nella scalata al monte di *Purgatorio*, alla più liberatoria e astratta sensazione di volo nei cieli, per arrivare, infine, alla candida rosa dell’Empireo. Castellucci, per quest’ultimo spettacolo della trilogia, decide di ricorrere all’installazione artistica, ambientando il suo *Paradiso* nell’Église des Célestins, una chiesa del XIV secolo. In questa suggestiva ambientazione, non ci sono animali o corpi in scena, solo musica, luci e scenografie.
 

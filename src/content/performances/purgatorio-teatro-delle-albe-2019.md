@@ -31,7 +31,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 2019, debutto Matera - Capitale Europea della Cultura 2019 (Italia) e dunque Ravenna (25 giugno 2019).
 
-## Descrizione
+## Approfondimento
 
 In seguito al primo spettacolo, *Inferno*, il Teatro delle Albe prosegue il proprio percorso nella creazione di una Trilogia dantesca secondo le modalità del *Cantiere Dante* mettendo in scena la seconda cantica, *Purgatorio.*
 Forti del primo esperimento dantesco, le Albe accolgono la richiesta di portare in scena la cantica non solo nella cornice della città di Ravenna, ma anche a Matera, nel 2019 Capitale della Cultura e allestendo nella città dei Sassi una particolare versione che è andata in scena dal 17 maggio al 2 giugno 2019.

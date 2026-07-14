@@ -25,7 +25,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 28 novembre 2014, BOZAR, Centre for Fine Arts, Brussels
 
-## Descrizione
+## Approfondimento
 
 Nel 2014, a Bruxelles, il coreografo toscano Virgilio Sieni presenta un primo progetto che funge da laboratorio di idee per i successivi e più articolati adattamenti coreici danteschi.
 *Vita Nova. 12 dances on the body, the gesture and color* è un laboratorio dello sguardo e del gesto legato ad una specifica mostra d'arte che si trovava in quell'anno ospitata nella capitale belga: *Pittura senese. Ars narrandi nell’Europa gotica*, presso il BOZAR, Centre for Fine Arts, con opere provenienti dalla Pinacoteca Nazionale di Siena.

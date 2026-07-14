@@ -28,7 +28,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 25 maggio 2017, Ravenna e Teatro Rasi(Italia).
 
-## Descrizione
+## Approfondimento
 
 All'indomani delle celebrazioni dantesche del 2015, la Compagnia ravennate Teatro delle Albe decide insieme al Ravenna Festival e alla Municipalità cittadina di pianificare la produzione di una trilogia dantesca spettacolare che possa idealmente traghettare la comunità verso il nuovo anniversario dantesco, il settimo centenario della morte del Poeta nel 2021, denominato *Cantiere Dante*.
 Pertanto prevede di portare in scena dal 2017, ogni due anni, una cantica dantesca, pianificando *Paradiso*per il 2021, e di dare modo a quanti e quante vogliano partecipare di mettersi in gioco nello spettacolo. La formula, ormai consolidata delle *chiamate pubbliche* per cittadini e cittadine è uno degli elementi fondamentali per la drammaturgia dantesca proposta dalle Albe, che creano lungo questo percorso una vera e propria comunità nel nome di Dante a Ravenna, prima prendendo in considerazione solo i volontari del posto, e successivamente aprendosi anche a gruppi provenienti da altre realtà che hanno negli anni collaborato con le Albe e hanno fatto proprio il loro manifesto *farsi luogo.*

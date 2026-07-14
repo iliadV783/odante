@@ -27,7 +27,7 @@ wordpressStatus: publish
 
 **Data e luogo della prima presentazione**: 16 settembre 2019, Verona
 
-## Descrizione
+## Approfondimento
 
 A Verona, commissionato in preparazione alle celebrazioni del Settimo centenario della morte del Sommo Poeta, viene presentato uno spettacolo che sfrutta il concetto di *sound scape*e di orizzonte immersivo, proponendo una camminata attraverso i luoghi danteschi ricchi di storia e di suggestioni legati alla presenza dell’Alighieri nella città scaligera.
 Ascoltando una narrazione che ripercorre le tappe salienti della storia del Poeta e della *Divina Commedia*attraverso particolari auricolari *wireless*, il *Silent Dante* di Silvia Mercuriali prende spunto dalla moda giovanile dei *silent parties*, modalità di festeggiamento all’aperto attente al rispetto della comunità circostante che incuriosita dalle masse festose e silenti.
