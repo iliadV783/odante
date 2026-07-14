@@ -32,6 +32,26 @@ jobs:
       - name: Build with Astro
         run: npm run build
 
+      - name: Normalize Osservatorio headings
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          find dist/osservatorio -type f -name 'index.html' -print0 \
+            | xargs -0 sed -i 's/>Descrizione</>Approfondimento</g'
+
+          if grep -RIl '>Descrizione<' dist/osservatorio --include='*.html' | grep -q .; then
+            echo "Sono ancora presenti intestazioni Descrizione nell'HTML generato."
+            grep -RIl '>Descrizione<' dist/osservatorio --include='*.html'
+            exit 1
+          fi
+
+          target='dist/osservatorio/purgatorio-rita-maffei-2021/index.html'
+          if ! grep -q '>Approfondimento<' "$target"; then
+            echo "Verifica fallita: Approfondimento non compare in $target"
+            exit 1
+          fi
+
       - name: Process HTML links
         uses: shravanngoswamii/html-link-action@v1
         with:
@@ -42,6 +62,14 @@ jobs:
           external-target-blank: true
           strip-tracking-params: true
           check-links: true
+
+      - name: Verify heading after HTML processing
+        shell: bash
+        run: |
+          set -euo pipefail
+          target='dist/osservatorio/purgatorio-rita-maffei-2021/index.html'
+          grep -q '>Approfondimento<' "$target"
+          ! grep -q '>Descrizione<' "$target"
 
       - name: Add .nojekyll file
         run: touch ./dist/.nojekyll
