@@ -20,4 +20,40 @@ jobs:
       - name: Replace Descrizione with Approfondimento
         shell: bash
         run: |
-          set -euo
+          set -euo pipefail
+
+          before=$((grep -RIl '^## Descrizione$' src/content/performances --include='*.md' || true) | wc -l)
+          if [ "$before" -ne 38 ]; then
+            echo "Expected 38 files with the heading '## Descrizione', found $before."
+            exit 1
+          fi
+
+          grep -RIl '^## Descrizione$' src/content/performances --include='*.md' \
+            | while IFS= read -r file; do
+                sed -i 's/^## Descrizione$/## Approfondimento/' "$file"
+              done
+
+          after=$((grep -RIl '^## Descrizione$' src/content/performances --include='*.md' || true) | wc -l)
+          updated=$((grep -RIl '^## Approfondimento$' src/content/performances --include='*.md' || true) | wc -l)
+
+          if [ "$after" -ne 0 ]; then
+            echo "Some headings were not replaced: $after remaining."
+            exit 1
+          fi
+
+          if [ "$updated" -lt 38 ]; then
+            echo "Validation failed: only $updated files contain '## Approfondimento'."
+            exit 1
+          fi
+
+          rm .github/workflows/update-osservatorio-headings.yml
+
+      - name: Commit changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/content/performances .github/workflows/update-osservatorio-headings.yml
+          git commit -m "Rinomina Descrizione in Approfondimento nelle schede Osservatorio"
+          git push
